@@ -1,0 +1,256 @@
+Ticker,Company,NCT_ID,Trial Title,Drug / Asset,Modality,Therapy Area,Indication,Phase,Status,Primary Compl.,Partners,Sub-Indication,Lead Asset,Dev Stage,Next Catalyst,Catalyst Type,Trial Count,All Phases,Fetched At
+MSFT,Microsoft Corporation,,,,,Cardiometabolic,,,,,Microsoft Corporation; EMC Consulting,Diabetes Mellitus,,Preclinical,Mar 2011,Clinical Update,4.0,Preclinical,2026-03-15
+GILD,"Gilead Sciences, Inc.",,,,Small Molecule,Infectious Disease,,,,,Gilead Sciences; Financiadora de Estudos e Projetos; Sociedade Gaucha de Infectologia,Disseminated Histoplasma Capsulatum Infection,Single high dose of liposomal amphotericin B,Phase 3,Aug 2026,Commercial / Label Expansion,54.0,"Phase 1/2, Phase 2, Preclinical, Phase 1, Phase 3",2026-03-15
+VRTX,Vertex Pharmaceuticals Incorporated,,,,Monoclonal Ab (mAb),Cardiometabolic,,,,,,Type 1 Diabetes,Biological/Vaccine,Phase 3,Sep 2026,Phase 3 Readout,100.0,"Phase 1/2, Phase 2, Preclinical, Phase 1, Phase 2/3, Phase 3",2026-03-15
+REGN,"Regeneron Pharmaceuticals, Inc.",,,,Small Molecule,Oncology,,,,,Regeneron Pharmaceuticals; NSABP Foundation Inc,Colorectal Neoplasms,"Aflibercept (ziv-aflibercept, AVE0005, VEGF trap, ZALTRAP®)",Phase 3,Feb 2011,Phase 3 Data Readout,13.0,"Phase 1/2, Phase 2, Preclinical, Phase 1, Phase 3",2026-03-15
+ARGX,argenx SE,,,,,,,,,,,,,,,,0.0,,2026-03-15
+ALNY,"Alnylam Pharmaceuticals, Inc.",,,,Small Molecule,Infectious Disease,,,,,"Vir Biotechnology, Inc.; Alnylam Pharmaceuticals","Hepatitis B, Chronic",VIR-2218,Phase 2,Sep 2021,Phase 2 Data Readout,3.0,"Phase 1/2, Phase 2",2026-03-15
+NTRA,"Natera, Inc.",,,,Monoclonal Ab (mAb),Oncology,,,,,"Genentech, Inc.; Natera, Inc.",Colon Adenocarcinoma,Atezolizumab,Phase 3,Dec 2026,Commercial / Label Expansion,52.0,"Phase 2, Preclinical, Phase 1, Phase 2/3, Phase 3",2026-03-15
+RPRX,Royalty Pharma plc,,,,,,,,,,,,,,,,0.0,,2026-03-15
+DXCM,"DexCom, Inc.",,,,Small Molecule,Cardiometabolic,,,,,Canadian Institutes of Health Research (CIHR); The Kidney Foundation of Canada; The Cleveland Clinic,Diabetic Nephropathies,Sotagliflozin,Phase 3,Dec 2028,Commercial / Label Expansion,100.0,"Preclinical, Phase 1/2, Phase 3, Phase 1",2026-03-15
+UTHR,United Therapeutics Corporation,,,,,,,,,,,,,,,,0.0,,2026-03-15
+BNTX,BioNTech SE,,,,Small Molecule,Oncology,,,,,Bristol-Myers Squibb,Breast Neoplasms,Pumitamig,Phase 3,Dec 2029,Phase 3 Readout,95.0,"Phase 1/2, Phase 2, Preclinical, Phase 1, Phase 2/3, Phase 3",2026-03-15
+MRNA,"Moderna, Inc.",,,,RNA (siRNA/ASO/mRNA),Rare Disease,,,,,"Moderna, Inc",Cystic Fibrosis,VX-522 mRNA therapy,Phase 1/2,Dec 2026,Phase 1/2 Data Readout,1.0,Phase 1/2,2026-03-15
+RVMD,"Revolution Medicines, Inc.",,,,Small Molecule,Oncology,,,,,,Pancreatic Cancer,daraxonrasib,Phase 3,May 2029,Phase 3 Readout,16.0,"Phase 1/2, Phase 2, Phase 3, Phase 1",2026-03-15
+INCY,Incyte Corporation,,,,Small Molecule,CNS,,,,,,Hidradenitis Suppurativa (HS),povorcitinib,Phase 3,Feb 2028,Phase 3 Readout,100.0,"Phase 1/2, Phase 2, Preclinical, Phase 1, Phase 2/3, Phase 3",2026-03-15
+MKSI,MKS Inc.,,,,,,,,,,,,,,,,0.0,,2026-03-15
+ASND,Ascendis Pharma A/S,,,,Small Molecule,Oncology,,,,,,Turner Syndrome,Lonapegsomatropin [SKYTROFA®],Phase 3,Feb 2028,Commercial / Label Expansion,25.0,"Phase 1/2, Phase 2, Preclinical, Phase 1, Phase 2/3, Phase 3",2026-03-15
+BBIO,"BridgeBio Pharma, Inc.",,,,,Cardiometabolic,,,,,"Bridgebio Pharma, Inc",Transthyretin (TTR) Amyloid Cardiomyopathy,,Preclinical,Jan 2027,Clinical Update,2.0,Preclinical,2026-03-15
+NBIX,"Neurocrine Biosciences, Inc.",,,,Monoclonal Ab (mAb),CNS,,,,,"University of California, San Francisco; Veristat, Inc.; Feinstein Institute for Medical Research",Parkinson's Disease,VY-AADC01,Phase 1,Jan 2020,Phase 1 Data / Dose Escalation,1.0,Phase 1,2026-03-15
+SMMT,Summit Therapeutics Inc.,,,,Monoclonal Ab (mAb),Oncology,,,,,Summit Therapeutics,Advanced Solid Tumors,Daraxonrasib,Phase 1/2,May 2029,Phase 1/2 Data Readout,1.0,Phase 1/2,2026-03-15
+ALGN,"Align Technology, Inc.",,,,Small Molecule,Other,,,,,,Malocclusions,Probiotics,Preclinical,Nov 2025,Clinical Update,11.0,Preclinical,2026-03-15
+IONS,"Ionis Pharmaceuticals, Inc.",,,,Small Molecule,Rare Disease,,,,,,Angelman Syndrome,ION582,Phase 3,Aug 2027,Phase 3 Readout,100.0,"Phase 1/2, Phase 2, Preclinical, Phase 1, Phase 3",2026-03-15
+LSCC,Lattice Semiconductor Corporation,,,,,,,,,,,,,,,,0.0,,2026-03-15
+ELAN,Elanco Animal Health Incorporated,,,,,,,,,,,,,,,,0.0,,2026-03-15
+BMRN,BioMarin Pharmaceutical Inc.,,,,Small Molecule,Oncology,,,,,"Translational Research in Oncology; BioMarin Pharmaceutical; Medivation, Inc.",Metastatic Cancer,PARP inhibitor BMN-673,Phase 1,Oct 2019,Phase 1 Data / Dose Escalation,3.0,"Preclinical, Phase 1",2026-03-15
+EXEL,"Exelixis, Inc.",,,,Monoclonal Ab (mAb),Oncology,,,,,"Exelixis; Novartis; Clovis Oncology, Inc.",Cancer,Nivolumab,Phase 2,Aug 2029,Phase 2 Data Readout,6.0,"Phase 2, Phase 1",2026-03-15
+JAZZ,Jazz Pharmaceuticals plc,,,,,CNS,,,,,Invitae Corporation; Wake Up Narcolepsy; Narcolepsy Network,Narcolepsy,,Preclinical,Aug 2021,Clinical Update,1.0,Preclinical,2026-03-15
+MDGL,"Madrigal Pharmaceuticals, Inc.",,,,Small Molecule,Cardiometabolic,,,,,,Non-Alcoholic Fatty Liver Disease,Resmetirom,Phase 3,Mar 2026,Phase 3 Readout,17.0,"Phase 2, Phase 3, Phase 1",2026-03-15
+PRAX,"Praxis Precision Medicines, Inc.",,,,,,,,,,,,,,,,0.0,,2026-03-15
+AXSM,"Axsome Therapeutics, Inc.",,,,Small Molecule,CNS,,,,,,Fibromyalgia,AXS-14 (Esreboxetine),Phase 3,Mar 2028,Commercial / Label Expansion,29.0,"Phase 2, Preclinical, Phase 1, Phase 2/3, Phase 3",2026-03-15
+PCVX,"Vaxcyte, Inc.",,,,Monoclonal Ab (mAb),Infectious Disease,,,,,,Pneumococcal Vaccines,31 valent pneumococcal conjugate vaccine,Phase 3,Jan 2027,Phase 3 Readout,8.0,"Phase 1/2, Phase 2, Phase 3",2026-03-15
+ARWR,"Arrowhead Pharmaceuticals, Inc.",,,,,,,,,,,,,,,,0.0,,2026-03-15
+NUVL,"Nuvalent, Inc.",,,,Small Molecule,Oncology,,,,,,Non-small Cell Lung Cancer,Neladalkib (NVL-655),Phase 3,Dec 2029,Phase 3 Readout,4.0,"Phase 1/2, Phase 3, Phase 1",2026-03-15
+HALO,"Halozyme Therapeutics, Inc.",,,,,,,,,,,,,,,,0.0,,2026-03-15
+KRYS,"Krystal Biotech, Inc.",,,,Monoclonal Ab (mAb),Rare Disease,,,,,,Dystrophic Epidermolysis Bullosa,KB803,Phase 3,Dec 2026,Phase 3 Readout,13.0,"Phase 1/2, Phase 3, Preclinical, Phase 1",2026-03-15
+KYMR,"Kymera Therapeutics, Inc.",,,,Small Molecule,Oncology,,,,,,Atopic Dermatitis,KT-621,Phase 2,Jun 2027,Phase 2 Data Readout,10.0,"Preclinical, Phase 2, Phase 1",2026-03-15
+GRFS,"Grifols, S.A.",,,,Small Molecule,Infectious Disease,,,,,,Hepatitis B,Hepatitis B immune globulin,Phase 3,Jun 2014,Phase 3 Data Readout,27.0,"Phase 1/2, Phase 2, Preclinical, Phase 2/3, Phase 3",2026-03-15
+RYTM,"Rhythm Pharmaceuticals, Inc.",,,,Small Molecule,Cardiometabolic,,,,,,Hypothalamic Obesity,Setmelanotide,Phase 3,Mar 2027,Commercial / Label Expansion,31.0,"Phase 1/2, Phase 2, Preclinical, Phase 1, Phase 2/3, Phase 3",2026-03-15
+PTGX,"Protagonist Therapeutics, Inc.",,,,Small Molecule,Oncology,,,,,,Polycythemia Vera,Rusfertide,Phase 3,Feb 2025,Phase 3 Readout,13.0,"Phase 2, Phase 3, Phase 1",2026-03-15
+COGT,"Cogent Biosciences, Inc.",,,,Small Molecule,Oncology,,,,,,Advanced Gastrointestinal Stromal Tumors,CGT9486 plus sunitinib,Phase 3,Sep 2025,Phase 3 Readout,9.0,"Phase 1/2, Phase 2, Phase 3, Phase 1",2026-03-15
+MIRM,"Mirum Pharmaceuticals, Inc.",,,,Small Molecule,Immunology,,,,,,"Cholestatic Liver Disease (Except ALGS, PFIC, PBC and PSC)",Maralixibat,Phase 3,Oct 2026,Commercial / Label Expansion,35.0,"Phase 2, Preclinical, Phase 1, Phase 2/3, Phase 3",2026-03-15
+CGON,"CG Oncology, Inc.",,,,Monoclonal Ab (mAb),Oncology,,,,,,Non Muscle Invasive Bladder Cancer,Cretostimogene Grenadenorepvec,Phase 3,Dec 2027,Phase 3 Readout,6.0,"Phase 2, Phase 3, Phase 1",2026-03-15
+PTCT,"PTC Therapeutics, Inc.",,,,,,,,,,,,,,,,0.0,,2026-03-15
+LNTH,"Lantheus Holdings, Inc.",,,,,,,,,,,,,,,,0.0,,2026-03-15
+IMVT,"Immunovant, Inc.",,,,,,,,,,,,,,,,0.0,,2026-03-15
+APGE,"Apogee Therapeutics, Inc.",,,,Small Molecule,Immunology,,,,,,Atopic Dermatitis,APG777,Phase 2,Dec 2029,Phase 2 Data Readout,4.0,"Phase 2, Phase 1",2026-03-15
+AVAL,Grupo Aval Acciones y Valores S.A.,,,,,,,,,,,,,,,,0.0,,2026-03-15
+CRSP,CRISPR Therapeutics AG,,,,Small Molecule,Immunology,,,,,ViaCyte,Diabetes Mellitus,VCTX211,Phase 1/2,Apr 2025,Phase 1/2 Data Readout,5.0,"Phase 1/2, Preclinical, Phase 1",2026-03-15
+ALKS,Alkermes plc,,,,,,,,,,,,,,,,0.0,,2026-03-15
+XENE,Xenon Pharmaceuticals Inc.,,,,Small Molecule,CNS,,,,,Worldwide Clinical Trials,Focal Onset Seizures,XEN1101,Phase 3,Oct 2026,Phase 3 Readout,21.0,"Phase 1/2, Phase 2, Phase 3, Phase 1",2026-03-15
+FOLD,"Amicus Therapeutics, Inc.",,,,Small Molecule,Rare Disease,,,,,Amicus Therapeutics,Epidermolysis Bullosa,SD-101-6.0 cream,Phase 3,Jul 2017,Phase 3 Data Readout,3.0,"Preclinical, Phase 2, Phase 3",2026-03-15
+TGTX,"TG Therapeutics, Inc.",,,,Monoclonal Ab (mAb),CNS,,,,,,Relapsing Multiple Sclerosis,Ublituximab,Phase 3,Dec 2026,Phase 3 Readout,29.0,"Phase 1/2, Phase 2, Preclinical, Phase 1, Phase 2/3, Phase 3",2026-03-15
+MMSI,"Merit Medical Systems, Inc.",,,,Small Molecule,Oncology,,,,,,Patent Ductus Arteriosus (PDA),Corticosteroid injection,Preclinical,Aug 2026,Commercial / Label Expansion,26.0,Preclinical,2026-03-15
+VKTX,"Viking Therapeutics, Inc.",,,,Small Molecule,Cardiometabolic,,,,,,Weight Loss,VK2735,Phase 3,Jul 2027,Phase 3 Readout,9.0,"Phase 2, Phase 3, Phase 1",2026-03-15
+STVN,Stevanato Group S.p.A.,,,,,,,,,,,,,,,,0.0,,2026-03-15
+LGND,Ligand Pharmaceuticals Incorporated,,,,,,,,,,,,,,,,0.0,,2026-03-15
+ADMA,"ADMA Biologics, Inc.",,,,Monoclonal Ab (mAb),Infectious Disease,,,,,,Primary Immune Deficiency Disorders (PIDD),Nabi-IGIV 10% [Immune Globulin Intravenous (Human). 10%],Phase 3,Jul 2009,Phase 3 Data Readout,4.0,"Preclinical, Phase 2, Phase 3",2026-03-15
+LEGN,Legend Biotech Corporation,,,,,,,,,,,,,,,,0.0,,2026-03-15
+NAMS,NewAmsterdam Pharma Company N.V.,,,,,,,,,,,,,,,,0.0,,2026-03-15
+DNLI,Denali Therapeutics Inc.,,,,Small Molecule,Rare Disease,,,,,,Mucopolysaccharidosis II,tividenofusp alfa,Phase 2/3,Dec 2027,Phase 2 Data Readout,23.0,"Phase 1/2, Phase 2, Preclinical, Phase 1, Phase 2/3",2026-03-15
+LQDA,Liquidia Corporation,,,,,,,,,,,,,,,,0.0,,2026-03-15
+DORM,"Dorman Products, Inc.",,,,,,,,,,,,,,,,0.0,,2026-03-15
+IDYA,"IDEAYA Biosciences, Inc.",,,,,,,,,,,,,,,,0.0,,2026-03-15
+TARS,"Tarsus Pharmaceuticals, Inc.",,,,Small Molecule,Ophthalmology,,,,,,Blepharitis,TP-03,Phase 3,May 2022,Phase 3 Data Readout,11.0,"Phase 2, Preclinical, Phase 1, Phase 2/3, Phase 3",2026-03-15
+CPRX,"Catalyst Pharmaceuticals, Inc.",,,,Small Molecule,Rare Disease,,,,,,Lambert-Eaton Myasthenic Syndrome,Amifampridine Phosphate,Phase 3,Oct 2017,Commercial / Label Expansion,10.0,"Phase 2, Preclinical, Phase 1, Phase 2/3, Phase 3",2026-03-15
+VERA,"Vera Therapeutics, Inc.",,,,Monoclonal Ab (mAb),Immunology,,,,,,IgA Nephropathy,Atacicept,Phase 3,May 2025,Phase 3 Readout,5.0,"Phase 2, Phase 3",2026-03-15
+ARQT,"Arcutis Biotherapeutics, Inc.",,,,Small Molecule,Immunology,,,,,,Scalp Psoriasis,Roflumilast Foam 0.3%,Phase 3,Jun 2022,Phase 3 Data Readout,26.0,"Phase 1/2, Phase 2, Phase 3, Phase 1",2026-03-15
+RCUS,"Arcus Biosciences, Inc.",,,,Monoclonal Ab (mAb),Oncology,,,,,"Arcus Biosciences, Inc.",Non-Small Cell Lung Cancer,Durvalumab,Phase 3,Jul 2028,Phase 3 Readout,46.0,"Phase 1/2, Phase 2, Phase 3, Phase 1",2026-03-15
+PRVA,"Privia Health Group, Inc.",,,,,,,,,,,,,,,,0.0,,2026-03-15
+TVTX,"Travere Therapeutics, Inc.",,,,Small Molecule,Immunology,,,,,,Homocystinuria,Pegtibatinase,Phase 3,Dec 2025,Phase 3 Readout,18.0,"Phase 1/2, Phase 2, Preclinical, Phase 1, Phase 3",2026-03-15
+BEAM,Beam Therapeutics Inc.,,,,Small Molecule,Rare Disease,,,,,,Glycogen Storage Disease Type Ia,BEAM-301: Single dose of BEAM-301 administered by IV,Phase 1/2,Dec 2027,Phase 1/2 Data Readout,8.0,"Preclinical, Phase 1/2, Phase 1",2026-03-15
+UCTT,"Ultra Clean Holdings, Inc.",,,,,,,,,,,,,,,,0.0,,2026-03-15
+APLS,"Apellis Pharmaceuticals, Inc.",,,,Small Molecule,Ophthalmology,,,,,,Delayed Graft Function,Pegcetacoplan,Phase 3,Aug 2027,Commercial / Label Expansion,26.0,"Phase 1/2, Phase 2, Preclinical, Phase 1, Phase 2/3, Phase 3",2026-03-15
+MAZE,"Maze Therapeutics, Inc.",,,,,,,,,,,,,,,,0.0,,2026-03-15
+ATRO,Astronics Corporation,,,,,,,,,,,,,,,,0.0,,2026-03-15
+AVDL,Avadel Pharmaceuticals PLC,,,,,,,,,,,,,,,,0.0,,2026-03-15
+GLPG,Galapagos NV,,,,Cell Therapy,Immunology,,,,,,Hematological Malignancies,GLPG CAR T-cell therapy,Phase 3,Jul 2039,Phase 3 Readout,100.0,"Phase 1/2, Phase 2, Preclinical, Phase 1, Phase 3",2026-03-15
+RARE,Ultragenyx Pharmaceutical Inc.,,,,Small Molecule,Rare Disease,,,,,,Angelman Syndrome,GTX-102,Phase 3,Jul 2026,Commercial / Label Expansion,64.0,"Phase 1/2, Phase 2, Preclinical, Phase 1, Phase 2/3, Phase 3",2026-03-15
+BCRX,"BioCryst Pharmaceuticals, Inc.",,,,,,,,,,,,,,,,0.0,,2026-03-15
+NKTR,Nektar Therapeutics,,,,Protein / Peptide,Cardiometabolic,,,,,Sanofi; Nektar Therapeutics,"Diabetes Mellitus, Type 2",Inhaled Human Insulin,Phase 3,,Phase 3 Data Readout,46.0,"Phase 1/2, Phase 2, Phase 3, Phase 1",2026-03-15
+ZLAB,Zai Lab Limited,,,,,,,,,,,,,,,,0.0,,2026-03-15
+ADPT,Adaptive Biotechnologies Corporation,,,,,,,,,,,,,,,,0.0,,2026-03-15
+PAHC,Phibro Animal Health Corporation,,,,,,,,,,,,,,,,0.0,,2026-03-15
+NEOG,Neogen Corporation,,,,,,,,,,,,,,,,0.0,,2026-03-15
+CLDX,"Celldex Therapeutics, Inc.",,,,Monoclonal Ab (mAb),Oncology,,,,,Celldex Therapeutics,Advanced Breast Carcinoma,"ONT-10, Varlilumab combination",Phase 1,Jun 2016,Phase 1 Data / Dose Escalation,2.0,Phase 1,2026-03-15
+TYRA,"Tyra Biosciences, Inc.",,,,Small Molecule,Oncology,,,,,,Achondroplasia,TYRA-300 0.125 mg/kg,Phase 2,Jan 2030,Phase 2 Data Readout,7.0,"Phase 1/2, Phase 2, Phase 1",2026-03-15
+STOK,"Stoke Therapeutics, Inc.",,,,Small Molecule,CNS,,,,,,Dravet Syndrome,zorevunersen,Phase 3,Mar 2027,Phase 3 Readout,3.0,"Phase 1/2, Phase 2, Phase 3",2026-03-15
+ANAB,"AnaptysBio, Inc.",,,,Monoclonal Ab (mAb),Immunology,,,,,,Rheumatoid Arthritis,Rosnilimab,Phase 2,Nov 2024,Phase 2 Data Readout,7.0,"Preclinical, Phase 2",2026-03-15
+RLAY,"Relay Therapeutics, Inc.",,,,Small Molecule,Oncology,,,,,,PIK3CA Mutation,RLY-2608,Phase 3,Apr 2028,Phase 3 Readout,5.0,"Preclinical, Phase 2, Phase 3, Phase 1",2026-03-15
+RXRX,"Recursion Pharmaceuticals, Inc.",,,,Small Molecule,Oncology,,,,,,Cerebral Cavernous Malformation,REC-994,Phase 2,Jun 2025,Phase 2 Data Readout,5.0,"Phase 1/2, Phase 2, Phase 1",2026-03-15
+SRPT,"Sarepta Therapeutics, Inc.",,,,Monoclonal Ab (mAb),Oncology,,,,,,Limb-girdle Muscular Dystrophy,SRP-9003,Phase 3,Mar 2025,Phase 3 Readout,38.0,"Phase 1/2, Phase 2, Preclinical, Phase 1, Phase 3",2026-03-15
+ZYME,Zymeworks Inc.,,,,Monoclonal Ab (mAb),Oncology,,,,,"Cancer Research UK & UCL Cancer Trials Centre; Belgian Group of Digestive Oncology; National Cancer Institute, France",Biliary Tract Neoplasms,Futibatinib,Phase 3,Jun 2027,Phase 3 Readout,6.0,"Phase 2, Phase 3, Phase 1",2026-03-15
+RAPT,RAPT Therapeutics Inc,,,,Small Molecule,Oncology,,,,,,Ig-E Mediated Food Allergy,RPT904,Phase 2,Apr 2027,Phase 2 Data Readout,4.0,"Phase 1/2, Phase 2, Phase 1",2026-03-15
+NVAX,"Novavax, Inc.",,,,,,,,,,,,,,,,0.0,,2026-03-15
+VCEL,Vericel Corporation,,,,Monoclonal Ab (mAb),Cardiometabolic,,,,,,Chondral Defect,autologous cultured chondrocytes on porcine collagen membran,Phase 3,Jul 2030,Commercial / Label Expansion,13.0,"Phase 1/2, Phase 2, Phase 3, Preclinical",2026-03-15
+INVA,"Innoviva, Inc.",,,,Small Molecule,Other,,,,,Innoviva Specialty Therapeutics,Complicated Intra-abdominal Infections (cIAI),Eravacycline 2mg/kg,Phase 2,Feb 2029,Phase 2 Data Readout,1.0,Phase 2,2026-03-15
+AGIO,"Agios Pharmaceuticals, Inc.",,,,Small Molecule,Rare Disease,,,,,,Transfusion-dependent Alpha-Thalassemia,Mitapivat,Phase 3,Apr 2024,Commercial / Label Expansion,52.0,"Phase 1/2, Phase 2, Preclinical, Phase 1, Phase 2/3, Phase 3",2026-03-15
+IOVA,"Iovance Biotherapeutics, Inc.",,,,Monoclonal Ab (mAb),Oncology,,,,,,Metastatic Melanoma,Lifileucel plus Pembrolizumab,Phase 3,Mar 2028,Phase 3 Readout,26.0,"Phase 1/2, Phase 2, Preclinical, Phase 1, Phase 3",2026-03-15
+NBTX,Nanobiotix S.A.,,,,,,,,,,,,,,,,0.0,,2026-03-15
+HRMY,"Harmony Biosciences Holdings, Inc.",,,,,,,,,,,,,,,,0.0,,2026-03-15
+ANIP,"ANI Pharmaceuticals, Inc.",,,,,,,,,,,,,,,,0.0,,2026-03-15
+IMCR,Immunocore Holdings plc,,,,,,,,,,,,,,,,0.0,,2026-03-15
+NRIX,"Nurix Therapeutics, Inc.",,,,Small Molecule,Oncology,,,,,,Chronic Lymphocytic Leukemia (CLL),NX-5948,Phase 2,Jan 2028,Phase 2 Data Readout,7.0,"Phase 2, Phase 1",2026-03-15
+NTLA,"Intellia Therapeutics, Inc.",,,,,,,,,,,,,,,,0.0,,2026-03-15
+ATRC,"AtriCure, Inc.",,,,Small Molecule,Cardiometabolic,,,,,,Atrial Fibrillation,Anticoagulation Therapy,Phase 3,Dec 2007,Commercial / Label Expansion,36.0,"Preclinical, Phase 1/2, Phase 2, Phase 3",2026-03-15
+VIR,"Vir Biotechnology, Inc.",,,,Small Molecule,Oncology,,,,,,Viral Hepatitis,Tobevibart,Phase 3,Dec 2026,Phase 3 Readout,29.0,"Phase 1/2, Phase 2, Preclinical, Phase 1, Phase 2/3, Phase 3",2026-03-15
+BHVN,Biohaven Ltd.,,,,Small Molecule,Oncology,,,,,,Focal Epilepsy,BHV-7000,Phase 2/3,Dec 2026,Commercial / Label Expansion,17.0,"Phase 1/2, Phase 2, Preclinical, Phase 1, Phase 2/3",2026-03-15
+ARDX,"Ardelyx, Inc.",,,,,,,,,,,,,,,,0.0,,2026-03-15
+TRVI,"Trevi Therapeutics, Inc.",,,,,,,,,,,,,,,,0.0,,2026-03-15
+ENOV,Enovis Corporation,,,,,,,,,,,,,,,,0.0,,2026-03-15
+CRVS,"Corvus Pharmaceuticals, Inc.",,,,Small Molecule,Oncology,,,,,,"Peripheral T-Cell Lymphoma, Not Otherwise Specified",Soquelitinib,Phase 3,Nov 2026,Phase 3 Readout,9.0,"Phase 2, Phase 3, Phase 1",2026-03-15
+PDFS,"PDF Solutions, Inc.",,,,,,,,,,,,,,,,0.0,,2026-03-15
+IMTX,Immatics N.V.,,,,,,,,,,,,,,,,0.0,,2026-03-15
+TSHA,"Taysha Gene Therapies, Inc.",,,,Gene Therapy,Rare Disease,,,,,,Rett Syndrome,TSHA-102,Phase 3,Jun 2031,Phase 3 Readout,3.0,"Phase 1/2, Phase 3",2026-03-15
+GLUE,"Monte Rosa Therapeutics, Inc.",,,,Small Molecule,Oncology,,,,,,NSCLC,Oral MRT-2359,Phase 1/2,May 2026,Phase 1/2 Data Readout,3.0,"Phase 1/2, Phase 1",2026-03-15
+TRIN,Trinity Capital Inc.,,,,,,,,,,,,,,,,0.0,,2026-03-15
+SVRA,Savara Inc.,,,,Small Molecule,Immunology,,,,,,Autoimmune Pulmonary Alveolar Proteinosis,Molgramostim,Phase 3,Jun 2027,Phase 3 Readout,10.0,"Phase 2, Phase 3, Phase 1",2026-03-15
+INBX,"Inhibrx Biosciences, Inc.",,,,Monoclonal Ab (mAb),Oncology,,,,,,Head and Neck Squamous Cell Carcinoma (HNSCC),INBRX-106,Phase 2/3,May 2029,Phase 2 Data Readout,6.0,"Phase 1/2, Phase 2, Phase 2/3, Phase 1",2026-03-15
+AZTA,"Azenta, Inc.",,,,,,,,,,,,,,,,0.0,,2026-03-15
+QURE,uniQure N.V.,,,,Gene Therapy,Other,,,,,Porphyria Centre Sweden; University of Navarra; UniQure N.V.,Acute Intermittent Porphyria,rAAV2/5-PBGD vector dosage 1,Phase 1,Jul 2014,Phase 1 Data / Dose Escalation,2.0,"Preclinical, Phase 1",2026-03-15
+CMPX,"Compass Therapeutics, Inc.",,,,Monoclonal Ab (mAb),Oncology,,,,,"Compass Therapeutics, Inc",Metastatic Biliary Tract Cancer,Gemcitabine,Phase 1/2,May 2027,Phase 1/2 Data Readout,1.0,Phase 1/2,2026-03-15
+SLS,"SELLAS Life Sciences Group, Inc.",,,,Monoclonal Ab (mAb),Oncology,,,,,"Genentech, Inc.; Sellas Life Sciences Group",Breast Cancer,NeuVax vaccine,Phase 2,Dec 2021,Phase 2 Data Readout,2.0,Phase 2,2026-03-15
+NNNN,Anbio Biotechnology,,,,,,,,,,,,,,,,0.0,,2026-03-15
+URGN,UroGen Pharma Ltd.,,,,Small Molecule,Oncology,,,,,,Upper Urinary Tract Urothelial Carcinoma,UGN-104,Phase 3,Oct 2026,Commercial / Label Expansion,13.0,"Phase 1/2, Phase 2, Preclinical, Phase 1, Phase 3",2026-03-15
+SANA,"Sana Biotechnology, Inc.",,,,,Oncology,,,,,National Institutes of Health (NIH); National Institute of Neurological Disorders and Stroke (NINDS); National Center for Advancing Translational Sciences (NCATS),Leukodystrophy,,Preclinical,Dec 2030,Clinical Update,1.0,Preclinical,2026-03-15
+XNCR,"Xencor, Inc.",,,,Monoclonal Ab (mAb),Oncology,,,,,ICON plc,Ovarian Cancer,vudalimab,Phase 2,Oct 2025,Phase 2 Data Readout,23.0,"Phase 1/2, Phase 2, Phase 1",2026-03-15
+KALV,"KalVista Pharmaceuticals, Inc.",,,,,,,,,,,,,,,,0.0,,2026-03-15
+MNKD,MannKind Corporation,,,,Protein / Peptide,Cardiometabolic,,,,,,Type 2 Diabetes,Technosphere® Insulin,Phase 3,Jun 2013,Phase 3 Data Readout,51.0,"Phase 1/2, Phase 2, Preclinical, Phase 1, Phase 2/3, Phase 3",2026-03-15
+ANNX,"Annexon, Inc.",,,,Small Molecule,CNS,,,,,,Guillain-Barre Syndrome,Tanruprubart,Phase 3,Dec 2026,Phase 3 Readout,15.0,"Preclinical, Phase 2, Phase 3, Phase 1",2026-03-15
+JANX,"Janux Therapeutics, Inc.",,,,,,,,,,,,,,,,0.0,,2026-03-15
+PHAT,"Phathom Pharmaceuticals, Inc.",,,,Small Molecule,Oncology,,,,,,Helicobacter Pylori Infection,Vonoprazan,Phase 3,Mar 2021,Phase 3 Data Readout,13.0,"Preclinical, Phase 2, Phase 3, Phase 1",2026-03-15
+OCGN,"Ocugen, Inc.",,,,,,,,,,,,,,,,0.0,,2026-03-15
+CGEM,"Cullinan Therapeutics, Inc.",,,,Small Molecule,Oncology,,,,,,Non Small Cell Lung Cancer,CLN-081,Phase 1/2,Jan 2026,Phase 1/2 Data Readout,9.0,"Phase 1/2, Phase 1",2026-03-15
+OMER,Omeros Corporation,,,,Small Molecule,Ophthalmology,,,,,,Knee Injuries,OMS103HP,Phase 3,Sep 2010,Phase 3 Data Readout,20.0,"Phase 1/2, Phase 2, Preclinical, Phase 1, Phase 2/3, Phase 3",2026-03-15
+CTMX,"CytomX Therapeutics, Inc.",,,,,,,,,,,,,,,,0.0,,2026-03-15
+APOG,"Apogee Enterprises, Inc.",,,,,,,,,,,,,,,,0.0,,2026-03-15
+TBPH,"Theravance Biopharma, Inc.",,,,Small Molecule,Oncology,,,,,Theravance Biopharma,Chronic Obstructive Pulmonary Disease (COPD),Revefenacin,Phase 3,Sep 2018,Phase 3 Data Readout,15.0,"Preclinical, Phase 2, Phase 3, Phase 1",2026-03-15
+AGMB,AgomAb Therapeutics NV,,,,Small Molecule,Immunology,,,,,,Fibrostenotic Crohn's Disease,AGMB-129,Phase 2,Sep 2026,Phase 2 Data Readout,6.0,"Phase 2, Phase 1",2026-03-15
+EIKN,"Eikon Therapeutics, Inc.",,,,Small Molecule,Oncology,,,,,"Impact Therapeutics, Inc.",Advanced Solid Tumors,EIK1004-001 (IMP1707-001),Phase 1/2,Dec 2028,Phase 1/2 Data Readout,2.0,Phase 1/2,2026-03-15
+ALRS,Alerus Financial Corporation,,,,,,,,,,,,,,,,0.0,,2026-03-15
+ESPR,"Esperion Therapeutics, Inc.",,,,Small Molecule,Cardiometabolic,,,,,,Hypercholesterolemia,bempedoic acid,Phase 3,Nov 2019,Phase 3 Data Readout,25.0,"Preclinical, Phase 2, Phase 3, Phase 1",2026-03-15
+DSGN,"Design Therapeutics, Inc.",,,,Small Molecule,Ophthalmology,,,,,,Fuchs Endothelial Corneal Dystrophy,DT-168,Phase 2,Sep 2026,Phase 2 Data Readout,5.0,"Phase 1/2, Phase 2, Phase 1",2026-03-15
+SLDB,Solid Biosciences Inc.,,,,Small Molecule,Rare Disease,,,,,,Duchenne Muscular Dystrophy,SGT-003,Phase 3,Jan 2029,Phase 3 Readout,7.0,"Preclinical, Phase 1/2, Phase 3, Phase 1",2026-03-15
+CCXI,Churchill Capital Corp XI,,,,,,,,,,,,,,,,0.0,,2026-03-15
+VOR,Vor Biopharma Inc.,,,,,,,,,,,,,,,,0.0,,2026-03-15
+IRWD,"Ironwood Pharmaceuticals, Inc.",,,,Small Molecule,Oncology,,,,,Forest Laboratories,Irritable Bowel Syndrome With Constipation,Linaclotide,Phase 3,Mar 2012,Phase 3 Data Readout,36.0,"Preclinical, Phase 2, Phase 3, Phase 1",2026-03-15
+ALLO,"Allogene Therapeutics, Inc.",,,,Gene Therapy,Oncology,,,,,"Foresight Diagnostics, Inc.",Large B-cell Lymphoma,cemacabtagene ansegedleucel,Phase 2,Aug 2027,Phase 2 Data Readout,1.0,Phase 2,2026-03-15
+RDVT,"Red Violet, Inc.",,,,,,,,,,,,,,,,0.0,,2026-03-15
+KYTX,"Kyverna Therapeutics, Inc.",,,,,,,,,,,,,,,,0.0,,2026-03-15
+VNDA,Vanda Pharmaceuticals Inc.,,,,,,,,,,,,,,,,0.0,,2026-03-15
+EMBC,Embecta Corp.,,,,,,,,,,,,,,,,0.0,,2026-03-15
+RCKT,"Rocket Pharmaceuticals, Inc.",,,,Gene Therapy,Cardiometabolic,,,,,,Danon Disease,RP-A501,Phase 2,Apr 2028,Phase 2 Data Readout,13.0,"Preclinical, Phase 1/2, Phase 2, Phase 1",2026-03-15
+NMRA,"Neumora Therapeutics, Inc.",,,,Small Molecule,CNS,,,,,,Major Depressive Disorder,NMRA-335140,Phase 3,Feb 2026,Phase 3 Readout,7.0,"Phase 2, Phase 3, Phase 1",2026-03-15
+FULC,"Fulcrum Therapeutics, Inc.",,,,,,,,,,,,,,,,0.0,,2026-03-15
+AQST,"Aquestive Therapeutics, Inc.",,,,,,,,,,,,,,,,0.0,,2026-03-15
+LXEO,"Lexeo Therapeutics, Inc.",,,,,,,,,,,,,,,,0.0,,2026-03-15
+TRDA,"Entrada Therapeutics, Inc.",,,,Small Molecule,Rare Disease,,,,,,Duchenne Muscular Dystrophy (DMD),ENTR-601-44,Phase 1/2,Mar 2029,Phase 1/2 Data Readout,2.0,Phase 1/2,2026-03-15
+ENGN,enGene Holdings Inc.,,,,,,,,,,,,,,,,0.0,,2026-03-15
+RIGL,"Rigel Pharmaceuticals, Inc.",,,,Small Molecule,Other,,,,,"Rigel Pharmaceuticals,Inc.",Mutant IDH1 Inhibitor Olutasidenib,Olutasidenib,Phase 1/2,Jun 2027,Phase 1/2 Data Readout,1.0,Phase 1/2,2026-03-15
+AVIR,"Atea Pharmaceuticals, Inc.",,,,Small Molecule,Infectious Disease,,,,,,HEPATITIS C VIRUS CHRONIC INFECTION,Bemnifosbuvir-Ruzasvir,Phase 3,Dec 2026,Phase 3 Readout,29.0,"Phase 2, Phase 3, Phase 1",2026-03-15
+LRMR,"Larimar Therapeutics, Inc.",,,,Monoclonal Ab (mAb),Rare Disease,,,,,,Friedreich Ataxia,CTI-1601,Phase 2,Jan 2027,Phase 2 Data Readout,6.0,"Preclinical, Phase 2, Phase 1",2026-03-15
+FDMT,"4D Molecular Therapeutics, Inc.",,,,,,,,,,,,,,,,0.0,,2026-03-15
+LYEL,"Lyell Immunopharma, Inc.",,,,Monoclonal Ab (mAb),Oncology,,,,,,Large B-cell Lymphoma,rondecabtagene autoleucel,Phase 3,Dec 2029,Phase 3 Readout,3.0,"Phase 1/2, Phase 3, Phase 1",2026-03-15
+RGNX,REGENXBIO Inc.,,,,Gene Therapy,Ophthalmology,,,,,REGENXBIO Inc.,AMD,ABBV-RGX-314 Dose 1,Phase 3,Oct 2026,Phase 3 Readout,14.0,"Phase 1/2, Phase 2, Preclinical, Phase 2/3, Phase 3",2026-03-15
+MYGN,"Myriad Genetics, Inc.",,,,Small Molecule,Oncology,,,,,"Gynecologic Oncology Group; European Network of Gynaecological Oncological Trial Groups (ENGOT); Myriad Genetics, Inc.",Ovarian Neoplasms,Niraparib,Phase 3,May 2019,Phase 3 Readout,17.0,"Phase 1/2, Phase 2, Preclinical, Phase 1, Phase 3",2026-03-15
+RLMD,"Relmada Therapeutics, Inc.",,,,Small Molecule,Oncology,,,,,,"Bladder (Urothelial, Transitional Cell) Cancer",NDV-01 (sustained-release gemcitabine-docetaxel),Phase 3,Sep 2029,Phase 3 Readout,10.0,"Phase 2, Phase 3, Phase 1",2026-03-15
+ACRS,"Aclaris Therapeutics, Inc.",,,,Small Molecule,Immunology,,,,,,Seborrheic Keratosis,A-101 Solution,Phase 3,Oct 2016,Phase 3 Data Readout,31.0,"Phase 1/2, Phase 2, Preclinical, Phase 1, Phase 3",2026-03-15
+ITIC,Investors Title Company,,,,,,,,,,,,,,,,0.0,,2026-03-15
+IPSC,"Century Therapeutics, Inc.",,,,Monoclonal Ab (mAb),Oncology,,,,,,Systemic Lupus Erythematosus,CNTY-101,Phase 1,Aug 2028,Phase 1 Data / Dose Escalation,2.0,"Preclinical, Phase 1",2026-03-15
+MNPR,Monopar Therapeutics Inc.,,,,,,,,,,,,,,,,0.0,,2026-03-15
+PACB,"Pacific Biosciences of California, Inc.",,,,,,,,,,,,,,,,0.0,,2026-03-15
+AKBA,"Akebia Therapeutics, Inc.",,,,Small Molecule,Other,,,,,"Otsuka Pharmaceutical Development & Commercialization, Inc.",Anemia,Vadadustat,Phase 3,Nov 2021,Phase 3 Data Readout,4.0,"Preclinical, Phase 2, Phase 2/3, Phase 3",2026-03-15
+ARMP,"Armata Pharmaceuticals, Inc.",,,,Small Molecule,Rare Disease,,,,,"Vantage Data Designs, Inc.; E Squared Trials and Registries, Inc.; Agility Clinical, Inc.",Dental Caries,C16G2 Strip,Phase 2,Apr 2017,Phase 2 Data Readout,11.0,"Phase 1/2, Phase 2, Phase 1",2026-03-15
+AUTL,Autolus Therapeutics plc,,,,,,,,,,,,,,,,0.0,,2026-03-15
+LENZ,"LENZ Therapeutics, Inc.",,,,Small Molecule,Ophthalmology,,,,,"LENZ Therapeutics, Inc",Presbyopia,Aceclidine+Brimonidine combination ophthalmic solution,Phase 3,Aug 2024,Phase 3 Data Readout,10.0,"Phase 2, Phase 3, Phase 1",2026-03-15
+STRO,"Sutro Biopharma, Inc.",,,,Monoclonal Ab (mAb),Oncology,,,,,"Sutro Biopharma, Inc.",Neoplasm Malignant,STRO-002,Phase 1/2,Dec 2026,Phase 1/2 Data Readout,4.0,"Phase 1/2, Phase 1",2026-03-15
+AURA,"Aura Biosciences, Inc.",,,,,,,,,,,,,,,,0.0,,2026-03-15
+EVTL,Vertical Aerospace Ltd.,,,,,,,,,,,,,,,,0.0,,2026-03-15
+LCTX,"Lineage Cell Therapeutics, Inc.",,,,Monoclonal Ab (mAb),Other,,,,,,Cervical Spinal Cord Injury,AST-OPC1,Phase 1/2,Dec 2018,Phase 1/2 Data Readout,5.0,"Preclinical, Phase 1/2, Phase 1",2026-03-15
+ENTA,"Enanta Pharmaceuticals, Inc.",,,,Small Molecule,Oncology,,,,,hVIVO Services Limited,RSV Infection,EDP-938 Dose 1,Phase 2,Sep 2019,Phase 2 Data Readout,38.0,"Phase 2, Phase 1",2026-03-15
+ALTO,"Alto Ingredients, Inc.",,,,,,,,,,,,,,,,0.0,,2026-03-15
+CADL,"Candel Therapeutics, Inc.",,,,Monoclonal Ab (mAb),Oncology,,,,,,Prostate Cancer,Aglatimagene besadenovec + valacyclovir,Phase 3,Aug 2024,Phase 3 Readout,13.0,"Phase 2, Phase 3, Phase 1",2026-03-15
+ORGO,Organogenesis Holdings Inc.,,,,,,,,,,,,,,,,0.0,,2026-03-15
+BCYC,Bicycle Therapeutics plc,,,,,,,,,,,,,,,,0.0,,2026-03-15
+XFOR,"X4 Pharmaceuticals, Inc.",,,,,,,,,,,,,,,,0.0,,2026-03-15
+AMRN,Amarin Corporation plc,,,,,,,,,,,,,,,,0.0,,2026-03-15
+PBYI,"Puma Biotechnology, Inc.",,,,Small Molecule,Oncology,,,,,,HER2+ Metastatic Breast Cancer (MBC),neratinib,Phase 3,Sep 2018,Phase 3 Data Readout,50.0,"Phase 1/2, Phase 2, Preclinical, Phase 1, Phase 3",2026-03-15
+TARA,"Protara Therapeutics, Inc.",,,,,,,,,,,,,,,,0.0,,2026-03-15
+VYGR,"Voyager Therapeutics, Inc.",,,,Monoclonal Ab (mAb),CNS,,,,,"University of California, San Francisco; Veristat, Inc.; Feinstein Institute for Medical Research",Parkinson's Disease,VY-AADC01,Phase 1,Jan 2020,Phase 1 Data / Dose Escalation,1.0,Phase 1,2026-03-15
+CCCC,"C4 Therapeutics, Inc.",,,,Small Molecule,Oncology,,,,,,Multiple Myeloma,Cemsidomide,Phase 2,Mar 2030,Phase 2 Data Readout,4.0,"Phase 2, Phase 1",2026-03-15
+FENC,Fennec Pharmaceuticals Inc.,,,,,,,,,,,,,,,,0.0,,2026-03-15
+ALDX,"Aldeyra Therapeutics, Inc.",,,,Small Molecule,Oncology,,,,,,Primary Vitreoretinal Lymphoma,ICM ADX-2191 injection,Phase 3,Dec 2026,Phase 3 Readout,34.0,"Phase 1/2, Phase 2, Phase 2/3, Phase 3",2026-03-15
+RZLT,"Rezolute, Inc.",,,,,,,,,,,,,,,,0.0,,2026-03-15
+CHRS,"Coherus Oncology, Inc.",,,,Small Molecule,Immunology,,,,,"Daiichi Sankyo Co., Ltd.",Rheumatoid Arthritis,Etanercept,Phase 3,Oct 2015,Phase 3 Data Readout,24.0,"Phase 1/2, Phase 2, Preclinical, Phase 1, Phase 3",2026-03-15
+ALEC,"Alector, Inc.",,,,Small Molecule,CNS,,,,,Alector Inc.,Alzheimer's Disease,GSK4527226,Phase 2,Sep 2028,Phase 2 Data Readout,8.0,"Phase 2, Phase 1",2026-03-15
+IKT,"Inhibikase Therapeutics, Inc.",,,,,,,,,,,,,,,,0.0,,2026-03-15
+EDIT,"Editas Medicine, Inc.",,,,Gene Therapy,Rare Disease,,,,,,Sickle Cell Disease,EDIT-301,Phase 1/2,Aug 2025,Phase 1/2 Data Readout,4.0,"Phase 1/2, Preclinical",2026-03-15
+PLX,"Protalix BioTherapeutics, Inc.",,,,,,,,,,,,,,,,0.0,,2026-03-15
+MASS,908 Devices Inc.,,,,,,,,,,,,,,,,0.0,,2026-03-15
+GENC,"Gencor Industries, Inc.",,,,,,,,,,,,,,,,0.0,,2026-03-15
+PRLD,Prelude Therapeutics Incorporated,,,,,,,,,,,,,,,,0.0,,2026-03-15
+TPVG,TriplePoint Venture Growth BDC Corp.,,,,,,,,,,,,,,,,0.0,,2026-03-15
+ANIK,"Anika Therapeutics, Inc.",,,,Small Molecule,Other,,,,,,Knee Osteoarthritis,Cingal,Phase 3,Jul 2018,Phase 3 Data Readout,18.0,"Preclinical, Phase 3",2026-03-15
+GALT,Galectin Therapeutics Inc.,,,,Small Molecule,Immunology,,,,,,Psoriasis,GR-MD-02,Phase 2,Mar 2018,Phase 2 Data Readout,8.0,"Phase 2, Phase 1",2026-03-15
+ABOS,"Acumen Pharmaceuticals, Inc.",,,,,,,,,,,,,,,,0.0,,2026-03-15
+SABS,"SAB Biotherapeutics, Inc.",,,,Monoclonal Ab (mAb),Infectious Disease,,,,,Eli Lilly and Company; Advancing Clinical Therapeutics Globally for HIV/AIDS and Other Infections; Brii Biosciences Limited,Coronavirus,bamlanivimab 7000mg,Phase 2/3,Apr 2022,Phase 2 Data Readout,7.0,"Phase 2, Phase 2/3, Phase 1",2026-03-15
+MGNX,"MacroGenics, Inc.",,,,Small Molecule,Oncology,,,,,MacroGenics,Advanced Solid Tumor,IMGC936,Phase 1/2,Dec 2023,Phase 1/2 Data Readout,1.0,Phase 1/2,2026-03-15
+TNYA,"Tenaya Therapeutics, Inc.",,,,,,,,,,,,,,,,0.0,,2026-03-15
+CRBU,"Caribou Biosciences, Inc.",,,,Gene Therapy,Oncology,,,,,,"Lymphoma, Non-Hodgkin",CB-010,Phase 1,Aug 2025,Phase 1 Data / Dose Escalation,3.0,"Preclinical, Phase 1",2026-03-15
+ZNTL,"Zentalis Pharmaceuticals, Inc.",,,,Small Molecule,Oncology,,,,,,"High-Grade Serous Ovarian, Fallopian Tube or Primary Peritoneal Cancer",azenosertib,Phase 2,Dec 2026,Phase 2 Data Readout,8.0,"Phase 1/2, Phase 2, Phase 1",2026-03-15
+KLRS,"Kalaris Therapeutics, Inc.",,,,,,,,,,,,,,,,0.0,,2026-03-15
+NKTX,"Nkarta, Inc.",,,,Small Molecule,Immunology,,,,,,Systemic Sclerosis,NKX019,Phase 1/2,Oct 2028,Phase 1/2 Data Readout,4.0,"Phase 1/2, Phase 1",2026-03-15
+ARTV,"Artiva Biotherapeutics, Inc.",,,,Cell Therapy,Oncology,,,,,,Refractory Rheumatoid Arthritis (RA),Allogeneic NK Cells,Phase 2,Jan 2028,Phase 2 Data Readout,5.0,"Phase 1/2, Phase 2, Phase 1",2026-03-15
+CNTB,Connect Biopharma Holdings Limited,,,,,,,,,,,,,,,,0.0,,2026-03-15
+BFIN,BankFinancial Corporation,,,,,,,,,,,,,,,,0.0,,2026-03-15
+MIST,Milestone Pharmaceuticals Inc.,,,,Small Molecule,Cardiometabolic,,,,,,Paroxysmal Supraventricular Tachycardia,Etripamil NS 70 mg,Phase 3,Mar 2026,Phase 3 Readout,8.0,"Phase 2, Phase 3, Phase 1",2026-03-15
+KPTI,Karyopharm Therapeutics Inc.,,,,Small Molecule,Oncology,,,,,GOG Foundation; European Network of Gynaecological Oncological Trial Groups (ENGOT); Belgian Gynaecological Oncology Group,Endometrial Cancer,Selinexor,Phase 3,Aug 2026,Commercial / Label Expansion,56.0,"Phase 1/2, Phase 2, Preclinical, Phase 1, Phase 2/3, Phase 3",2026-03-15
+SGMO,"Sangamo Therapeutics, Inc.",,,,,,,,,,,,,,,,0.0,,2026-03-15
+IPHA,Innate Pharma S.A.,,,,,,,,,,,,,,,,0.0,,2026-03-15
+OVID,Ovid Therapeutics Inc.,,,,,,,,,,,,,,,,0.0,,2026-03-15
+DTIL,"Precision BioSciences, Inc.",,,,Monoclonal Ab (mAb),Rare Disease,,,,,,Duchenne Muscular Dystrophy With Mutations Amenable to PBGENE-DMD,PBGENE-DMD (IV),Phase 1/2,Nov 2029,Phase 1/2 Data Readout,5.0,"Preclinical, Phase 1/2, Phase 1",2026-03-15
+FATE,"Fate Therapeutics, Inc.",,,,,,,,,,,,,,,,0.0,,2026-03-15
+VTVT,vTv Therapeutics Inc.,,,,,,,,,,,,,,,,0.0,,2026-03-15
+CRDF,"Cardiff Oncology, Inc.",,,,Monoclonal Ab (mAb),Oncology,,,,,"American Association for Cancer Research; Oregon Health and Science University; Genentech, Inc.",Locally Advanced Pancreatic Ductal Adenocarcinoma,Cobimetinib,Phase 1,Jun 2026,Phase 1 Data / Dose Escalation,1.0,Phase 1,2026-03-15
+BDTX,"Black Diamond Therapeutics, Inc.",,,,Small Molecule,Oncology,,,,,,Glioblastoma (GBM),silevertinib in combination with temozolomide,Phase 2,Nov 2028,Phase 2 Data Readout,2.0,"Phase 1/2, Phase 2",2026-03-15
+CRDL,Cardiol Therapeutics Inc.,,,,Small Molecule,Other,,,,,,Recurrent Pericarditis,CardiolRx,Phase 3,Sep 2026,Phase 3 Readout,3.0,"Phase 2, Phase 3",2026-03-15
+AGEN,Agenus Inc.,,,,Monoclonal Ab (mAb),Oncology,,,,,Agenus Inc.,Gastric Cancer,Balstilimab,Phase 3,May 2028,Phase 3 Readout,43.0,"Phase 1/2, Phase 2, Phase 1, Phase 2/3, Phase 3",2026-03-15
+SEER,"Seer, Inc.",,,,,,,,,,,,,,,,0.0,,2026-03-15
+FBIO,"Fortress Biotech, Inc.",,,,,,,,,,,,,,,,0.0,,2026-03-15
+CGTX,"Cognition Therapeutics, Inc.",,,,,Other,,,,,"Definium Therapeutics US, Inc.; Vector Institute for Artificial Intelligence; Cambridge Cognition Ltd",Mental Health Symptoms,,Preclinical,May 2025,Clinical Update,1.0,Preclinical,2026-03-15
+OKYO,OKYO Pharma Limited,,,,,,,,,,,,,,,,0.0,,2026-03-15
+CSBR,"Champions Oncology, Inc.",,,,,,,,,,,,,,,,0.0,,2026-03-15
+ATYR,"aTyr Pharma, Inc.",,,,Small Molecule,Infectious Disease,,,,,"Kyorin Pharmaceutical Co.,Ltd",Pulmonary Sarcoidosis,Efzofitimod 3 mg/kg,Phase 3,Jul 2025,Phase 3 Readout,10.0,"Phase 1/2, Phase 2, Phase 3, Preclinical",2026-03-15
+PMVP,"PMV Pharmaceuticals, Inc.",,,,Monoclonal Ab (mAb),Oncology,,,,,Merck Sharp & Dohme LLC,Advanced Solid Tumor,rezatapopt,Phase 1/2,Aug 2026,Phase 1/2 Data Readout,7.0,"Phase 1/2, Phase 1",2026-03-15
+PLRX,"Pliant Therapeutics, Inc.",,,,Small Molecule,Immunology,,,,,,Idiopathic Pulmonary Fibrosis,PLN-74809,Phase 2,Dec 2023,Phase 2 Data Readout,5.0,"Phase 2, Phase 1",2026-03-15
+PTHS,Pelthos Therapeutics Inc.,,,,,,,,,,,,,,,,0.0,,2026-03-15
+XBIT,XBiotech Inc.,,,,Monoclonal Ab (mAb),Immunology,,,,,,Rheumatoid Arthritis,Natrunix 400 mg,Phase 2,Jan 2027,Phase 2 Data Readout,6.0,"Phase 1/2, Phase 2, Phase 1",2026-03-15
+BYSI,BeyondSpring Inc.,,,,Small Molecule,Oncology,,,,,,Non-Small Cell Lung Cancer,Plinabulin,Phase 3,Jun 2029,Phase 3 Readout,9.0,"Phase 1/2, Phase 2, Phase 3, Phase 1",2026-03-15
+LUNG,Pulmonx Corporation,,,,,Immunology,,,,,,Heterogeneous Emphysema,,Phase 1/2,Nov 2008,Commercial / Label Expansion,16.0,"Preclinical, Phase 1/2, Phase 1",2026-03-15
+INDO,Indonesia Energy Corporation Limited,,,,,,,,,,,,,,,,0.0,,2026-03-15
+ANVS,"Annovis Bio, Inc.",,,,Small Molecule,CNS,,,,,Prevail Infoworks,Early Alzheimers Disease,buntanetap/posiphen,Phase 3,Dec 2027,Phase 3 Readout,6.0,"Phase 1/2, Phase 2/3, Phase 3",2026-03-15
+IMA,"ImageneBio, Inc.",,,,,,,,,,,,,,,,0.0,,2026-03-15
+TCRX,"TScan Therapeutics, Inc.",,,,Small Molecule,Oncology,,,,,,AML,TSC-204-A0201,Phase 1,Dec 2025,Phase 1 Data / Dose Escalation,6.0,"Preclinical, Phase 1",2026-03-15
+MGX,"Metagenomi Therapeutics, Inc.",,,,,,,,,,,,,,,,0.0,,2026-03-15
+ESLA,"Estrella Immunopharma, Inc.",,,,Monoclonal Ab (mAb),Oncology,,,,,Eureka Therapeutics Inc.,B-Cell Non-Hodgkin's Lymphoma (NHL),EB103,Phase 1/2,Dec 2026,Phase 1/2 Data Readout,1.0,Phase 1/2,2026-03-15
+PRTS,"CarParts.com, Inc.",,,,,,,,,,,,,,,,0.0,,2026-03-15
+ATRA,"Atara Biotherapeutics, Inc.",,,,,,,,,,,,,,,,0.0,,2026-03-15
+ALGS,"Aligos Therapeutics, Inc.",,,,,,,,,,,,,,,,0.0,,2026-03-15
+INKT,"MiNK Therapeutics, Inc.",,,,,,,,,,,,,,,,0.0,,2026-03-15
+EVAX,Evaxion A/S,,,,Monoclonal Ab (mAb),Oncology,,,,,Merck Sharp & Dohme LLC,Melanoma Stage IV,EVX-01,Phase 2,Sep 2025,Phase 2 Data Readout,1.0,Phase 2,2026-03-15
+RMTI,"Rockwell Medical, Inc.",,,,Small Molecule,Cardiometabolic,,,,,,Renal Failure Chronic Requiring Hemodialysis,Soluble Ferric Pyrophosphate (SFP),Phase 3,May 2013,Phase 3 Data Readout,16.0,"Phase 1/2, Phase 2, Preclinical, Phase 1, Phase 3",2026-03-15
+PDSB,PDS Biotechnology Corporation,,,,,,,,,,,,,,,,0.0,,2026-03-15
+JSPR,"Jasper Therapeutics, Inc.",,,,Monoclonal Ab (mAb),Other,,,,,,Urticaria Chronic,Briquilimab,Phase 2,Aug 2026,Phase 2 Data Readout,2.0,"Phase 1/2, Phase 2",2026-03-15
+OTLK,"Outlook Therapeutics, Inc.",,,,Monoclonal Ab (mAb),CNS,,,,,,Age-Related Macular Degeneration,bevacizumab,Phase 3,Mar 2025,Phase 3 Readout,5.0,Phase 3,2026-03-15
+BTAI,"BioXcel Therapeutics, Inc.",,,,Small Molecule,CNS,,,,,Worldwide Clinical Trials,"Agitation,Psychomotor",BXCL501,Phase 3,Aug 2025,Phase 3 Data Readout,15.0,"Phase 1/2, Phase 2, Preclinical, Phase 1, Phase 3",2026-03-15
+TPST,"Tempest Therapeutics, Inc.",,,,Monoclonal Ab (mAb),Oncology,,,,,"Adagene Inc; Tempest Therapeutics; NiKang Therapeutics, Inc.",Advanced Liver Cancers,Atezolizumab,Phase 1/2,Dec 2027,Phase 1/2 Data Readout,1.0,Phase 1/2,2026-03-15
